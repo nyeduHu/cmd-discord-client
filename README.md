@@ -14,7 +14,8 @@ A simple discord client within cmd or powershell.
 
 ## Configuration
  All things can be found in the `.env` file.
- 
+ ### How to get your token?
+  https://www.youtube.com/watch?v=lqSSXwcL7o0
  ### Channel settings
   example:
   ```json
