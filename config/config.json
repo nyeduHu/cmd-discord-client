@@ -1,7 +1,7 @@
 {
-    "channels": [
-       {"id":"745375385113460787", "name":"kibeszelo", "guild":"Magyar Minecraft Közösség®"},
-       {"id":"740263558150881437", "name": "m_chat", "guild":"Magyar Minecraft Közösség®"}
-    ],
-    "format":"default"
+  "channels": [
+     {"id":"740253887151927357", "name":"general", "guild":"Magical Village"},
+     {"id":"740253887158357367", "name": "memes", "guild":"I dunno"}
+  ],
+  "format":"default"
 }
