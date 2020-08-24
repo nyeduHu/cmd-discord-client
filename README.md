@@ -4,7 +4,7 @@ A simple discord client within cmd or powershell.
 ## Instalation
 
   ```
-  git clone repo.git
+  git clone https://github.com/nyeduHu/cmd-discord-client.git
   ```
   then
 
